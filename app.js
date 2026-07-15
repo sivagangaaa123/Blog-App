@@ -160,6 +160,3 @@ app.post("/sign-up", async (req,res)=>{
 app.listen(3001, ()=>{
     console.log("Server Started")
 })
-app.listen(3030,()=>{
-    console.log("Server Started")
-})
